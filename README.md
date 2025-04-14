@@ -1,5 +1,5 @@
 # ECE570_FinalProject
-Demo Video: 
+Demo Video: https://youtu.be/YJrDgVS6ms8
 
 1. Clone this repository
 2. Run setup_environment.ipynb to start project
